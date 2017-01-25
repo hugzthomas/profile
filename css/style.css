@@ -1,0 +1,87 @@
+
+body {
+  background-color: #EBEBEB;
+  color: #868686;
+}
+
+/*div {
+  width: 550px;
+  margin: 10px auto;
+  line-height: 17px;
+}*/
+h1 {
+  color: #0E83CD;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+h2 {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+h3 {
+  color: #0E83CD;
+  text-align: left;
+}
+
+.logo-circle {
+  border-radius: 50%;
+}
+
+.card {
+  width: 500px;
+  text-align: center;
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  line-height: 17px;
+}
+
+
+p{
+  text-align: justify;
+  font-size: 14px;
+}
+
+#resume {
+  text-align: center;
+}
+
+#movies td{
+  padding-right: 17px;
+}
+
+.button-container{
+  margin-top: 20px;
+  padding: 10px;
+}
+.btn-blue {
+  background-color: #0E83CD;
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: 13px;
+/*  border: 2px solid #8AE1B3;*/
+  border-radius: 10px;
+}
+
+.btn-blue:hover {
+  background-color: #152964;
+  color: #FFFFFF;
+/*  border: 2px solid #EBEBEB;*/
+  transition: ease 0.5s;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #868686;
+}
